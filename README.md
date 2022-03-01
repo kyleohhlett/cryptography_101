@@ -3,11 +3,11 @@
 # Cryptography 101
 
 ## The Thing About Apps
-Applications, especially those on Android and iOS devices, that are commonly used for private messaging (e.g. Telegram, Signal, WhatsApp) are certainly a cut above using regular SMS messaging when it comes to privacy.
+Private messaging applications, especially those on Android and iOS devices, are certainly a cut above using regular SMS messaging when it comes to privacy.
 
-However, it should be taken into consideration that some of these apps are not open-source applications. And some of them are, but are compiled in advance for you. As a result, you don't get to see, for sure, the actual code that the build of the application you're using was built from. So you have to just "trust" that the application really does what it says it does in regard to privacy.
+However, it should be taken into consideration that some of these apps are not open-source. And some of them are, but are compiled in advance for you. As a result, you don't get to see, for sure, the actual code that the build of the application you're using was built from. So you have to just "trust" that the application really does what it says it does in regard to privacy.
 
-> Signal does get somewhat of a pass here. For example, if you've rooted your Android device, you can compile and install Signal from source here: https://github.com/signalapp/Signal-Android  
+> Signal and a couple others do get somewhat of a pass here. For example, if you've rooted your Android device, you can compile and install Signal from source here: https://github.com/signalapp/Signal-Android  
 >  
 > How many Signal users have gone to that length though?
 
