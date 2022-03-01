@@ -40,7 +40,7 @@ As gpg is an open-source utlitiy, you can look through its code for yourself. Yo
 3.  
 
 ## Encrypting or Decrypting Other File Formats
-Great news: you can encrypt or decrypt anything, the same old way, regardless of its file format. Keep in mind though that if you don't name the file in a way that allows the recipient to know what format the file is in, they will be able to decrypt the file, but may not know what application to open it with.  
+Great news: you can encrypt or decrypt anything the same way, regardless of its file format. Keep in mind though that if you don't name the file in a way that allows the recipient to know what format the file is in, they will be able to decrypt the file, but may not know what application to open it with.  
 
 It's generally good practice to leave the file's original extension as part of the encrypted file name. The final `.gpg` extension denotes that the file has been encrypted with the `gpg` command line utlity.
 
